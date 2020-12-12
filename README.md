@@ -3,7 +3,7 @@
 
  A Smart Door Authentication System that sends alerts to the house owner about new or existing visitors via SMS and Email. It is a serverless microservice-driven web application hosted on AWS. It is built by utilizing the AWS services such as 
  - Kinesis Video Streams (Video Stream & Analysis)
- - Rekognition (Auth)
+ - Rekognition (Face detection)
  - S3 (Web hosting)
  - API Gateway (API hosting)
  - Lambda (Serverless compute)
